@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.efb4c878.css",
-    "main.js": "/static/js/main.f5db93a3.js",
+    "main.css": "/static/css/main.8e2818ab.css",
+    "main.js": "/static/js/main.b992ef16.js",
     "static/js/787.23fe46b1.chunk.js": "/static/js/787.23fe46b1.chunk.js",
     "static/media/mobile_pay.png": "/static/media/mobile_pay.58c33b8dd007862ab384.png",
     "static/media/bg_reason.png": "/static/media/bg_reason.689d136dfb40a842ff50.png",
     "static/media/Laptop.png": "/static/media/Laptop.e7a4317b2f17c541fc5a.png",
     "static/media/master.svg": "/static/media/master.f4747f7aa80e54b925a33bf93e519ce1.svg",
-    "static/media/mobile.png": "/static/media/mobile.3b2b2c0d6459c1fbd78c.png",
+    "static/media/mobile.png": "/static/media/mobile.3bca1169ca2a6b6348df.png",
     "static/media/visa.svg": "/static/media/visa.249f35514da5c0490c52bbe7a2a15f80.svg",
     "static/media/sofort.svg": "/static/media/sofort.bd9b8eee7136049f88855f20f6f4ffd9.svg",
     "static/media/usdt.svg": "/static/media/usdt.8a118af884eb59b1769404cc57a4e4f6.svg",
@@ -36,12 +36,12 @@
     "index.html": "/index.html",
     "static/media/Linkedin.svg": "/static/media/Linkedin.fd2890eb7bdb1f06848950cfc0d7118f.svg",
     "static/media/polygon.svg": "/static/media/polygon.0904849716799f680d0b71e23c7623ac.svg",
-    "main.efb4c878.css.map": "/static/css/main.efb4c878.css.map",
-    "main.f5db93a3.js.map": "/static/js/main.f5db93a3.js.map",
+    "main.8e2818ab.css.map": "/static/css/main.8e2818ab.css.map",
+    "main.b992ef16.js.map": "/static/js/main.b992ef16.js.map",
     "787.23fe46b1.chunk.js.map": "/static/js/787.23fe46b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efb4c878.css",
-    "static/js/main.f5db93a3.js"
+    "static/css/main.8e2818ab.css",
+    "static/js/main.b992ef16.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.adb4944b.css",
-    "main.js": "/static/js/main.6ddc2613.js",
+    "main.css": "/static/css/main.741f7681.css",
+    "main.js": "/static/js/main.95e685fd.js",
     "static/js/787.23fe46b1.chunk.js": "/static/js/787.23fe46b1.chunk.js",
     "static/media/mobile_pay.png": "/static/media/mobile_pay.58c33b8dd007862ab384.png",
     "static/media/bg_reason.png": "/static/media/bg_reason.689d136dfb40a842ff50.png",
@@ -37,12 +37,12 @@
     "index.html": "/index.html",
     "static/media/Linkedin.svg": "/static/media/Linkedin.fd2890eb7bdb1f06848950cfc0d7118f.svg",
     "static/media/polygon.svg": "/static/media/polygon.0904849716799f680d0b71e23c7623ac.svg",
-    "main.adb4944b.css.map": "/static/css/main.adb4944b.css.map",
-    "main.6ddc2613.js.map": "/static/js/main.6ddc2613.js.map",
+    "main.741f7681.css.map": "/static/css/main.741f7681.css.map",
+    "main.95e685fd.js.map": "/static/js/main.95e685fd.js.map",
     "787.23fe46b1.chunk.js.map": "/static/js/787.23fe46b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adb4944b.css",
-    "static/js/main.6ddc2613.js"
+    "static/css/main.741f7681.css",
+    "static/js/main.95e685fd.js"
   ]
 }

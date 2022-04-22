@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e2818ab.css",
-    "main.js": "/static/js/main.b992ef16.js",
+    "main.css": "/static/css/main.adb4944b.css",
+    "main.js": "/static/js/main.6ddc2613.js",
     "static/js/787.23fe46b1.chunk.js": "/static/js/787.23fe46b1.chunk.js",
     "static/media/mobile_pay.png": "/static/media/mobile_pay.58c33b8dd007862ab384.png",
     "static/media/bg_reason.png": "/static/media/bg_reason.689d136dfb40a842ff50.png",
@@ -11,6 +11,7 @@
     "static/media/visa.svg": "/static/media/visa.249f35514da5c0490c52bbe7a2a15f80.svg",
     "static/media/sofort.svg": "/static/media/sofort.bd9b8eee7136049f88855f20f6f4ffd9.svg",
     "static/media/usdt.svg": "/static/media/usdt.8a118af884eb59b1769404cc57a4e4f6.svg",
+    "static/media/binance_mobile_ver.svg": "/static/media/binance_mobile_ver.79131d9969c1a51764f90f251a5b87d5.svg",
     "static/media/binance.svg": "/static/media/binance.d29255e1e877eab5d70e253461ac8483.svg",
     "static/media/sera.svg": "/static/media/sera.d36ba542055ce48abd141f6ae3c3c21c.svg",
     "static/media/bg_line.jpg": "/static/media/bg_line.3a175f5f840327c8ea69.jpg",
@@ -36,12 +37,12 @@
     "index.html": "/index.html",
     "static/media/Linkedin.svg": "/static/media/Linkedin.fd2890eb7bdb1f06848950cfc0d7118f.svg",
     "static/media/polygon.svg": "/static/media/polygon.0904849716799f680d0b71e23c7623ac.svg",
-    "main.8e2818ab.css.map": "/static/css/main.8e2818ab.css.map",
-    "main.b992ef16.js.map": "/static/js/main.b992ef16.js.map",
+    "main.adb4944b.css.map": "/static/css/main.adb4944b.css.map",
+    "main.6ddc2613.js.map": "/static/js/main.6ddc2613.js.map",
     "787.23fe46b1.chunk.js.map": "/static/js/787.23fe46b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e2818ab.css",
-    "static/js/main.b992ef16.js"
+    "static/css/main.adb4944b.css",
+    "static/js/main.6ddc2613.js"
   ]
 }

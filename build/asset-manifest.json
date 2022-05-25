@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d66cc3cc.css",
-    "main.js": "/static/js/main.56bbe6ab.js",
+    "main.css": "/static/css/main.0d281705.css",
+    "main.js": "/static/js/main.dec4094b.js",
     "static/js/787.23fe46b1.chunk.js": "/static/js/787.23fe46b1.chunk.js",
     "static/media/mobile_pay.png": "/static/media/mobile_pay.58c33b8dd007862ab384.png",
     "static/media/bg_reason.png": "/static/media/bg_reason.689d136dfb40a842ff50.png",
@@ -32,12 +32,12 @@
     "static/media/Shape.svg": "/static/media/Shape.79410d1005fe6ce731b5dcbbc77d2458.svg",
     "static/media/1.svg": "/static/media/1.67a44264f8f42b2187baff7785b387c1.svg",
     "static/media/polygon.svg": "/static/media/polygon.0904849716799f680d0b71e23c7623ac.svg",
-    "main.d66cc3cc.css.map": "/static/css/main.d66cc3cc.css.map",
-    "main.56bbe6ab.js.map": "/static/js/main.56bbe6ab.js.map",
+    "main.0d281705.css.map": "/static/css/main.0d281705.css.map",
+    "main.dec4094b.js.map": "/static/js/main.dec4094b.js.map",
     "787.23fe46b1.chunk.js.map": "/static/js/787.23fe46b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d66cc3cc.css",
-    "static/js/main.56bbe6ab.js"
+    "static/css/main.0d281705.css",
+    "static/js/main.dec4094b.js"
   ]
 }
